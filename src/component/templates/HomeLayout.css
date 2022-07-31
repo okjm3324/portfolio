@@ -1,0 +1,18 @@
+.works-container {
+  display: flex;
+ 
+
+  background-color: rgb(236, 242, 253);
+  flex-wrap: wrap
+
+}
+
+.home-container {
+  height: 100%;
+  width: 100%;
+}
+
+.home-layout {
+  height: 100%;
+  width: 100%;
+}
